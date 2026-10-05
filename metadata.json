@@ -1,0 +1,6 @@
+{
+  "name": "Maná Diário",
+  "description": "Alimente sua alma todos os dias. Devocional cristão diário, Bíblia integrada com tradução Bíblia Livre, reflexões bíblicas originais, orações, áudio e ambiente sonoro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
